@@ -387,7 +387,7 @@ Pipeline should FAIL at scan stage
 
 ![svc](screenshots/service.png)
 
-### Application running in browser (NodePort)
+### Application running in browser 
 
 ![running](screenshots/running-in-browse.png)
 
