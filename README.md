@@ -369,7 +369,7 @@ Pipeline should FAIL at scan stage
 
 ### Jenkins pipeline SUCCESS
 
-![pipeline](screenshots/success.png)
+![pipeline](screenshots/SUCCESS.png)
 
 ### Trivy scan result (CLI output)
 
@@ -385,7 +385,7 @@ Pipeline should FAIL at scan stage
 
 ### Kubernetes service (`kubectl get svc`)
 
-![svc](screenshots/service .png)
+![svc](screenshots/service.png)
 
 ### Application running in browser (NodePort)
 
