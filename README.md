@@ -358,7 +358,7 @@ kubectl get svc
 Add vulnerable package:
 
 ```
-flask
+flask==0.5
 ```
 
 Pipeline should FAIL at scan stage
